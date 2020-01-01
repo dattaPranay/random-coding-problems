@@ -1,5 +1,5 @@
 // Link to this Question -- https://codeforces.com/contest/771/problem/B 
-// greedy -- implementation based 
+// greedy -- implementaion 
 #include <iostream>
 #include <vector>
 #include <string>
